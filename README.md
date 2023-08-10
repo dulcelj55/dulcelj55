@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dulcelj55
-- 👀 I’m interested in ... learning code to be a data enginer
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... not sure yet
+- 👀 I’m interested in ... learning code to be a software engineer
+- 🌱 I’m currently learning ... html, css, js
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... thenutritionaljourney@yahoo.com
 
 <!---
