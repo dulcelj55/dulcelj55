@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dulcelj55
 - 👀 I’m interested in ... learning code to be a software engineer
-- 🌱 I’m currently learning ... html, css, js
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning ... HTML, CSS, JS, REACT
+- 💞️ I’m looking for internships 
 - 📫 How to reach me ... thenutritionaljourney@yahoo.com
 
 <!---
